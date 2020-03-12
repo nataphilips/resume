@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Natalia Filippova",
+    "label": "Junior Software Developer",
+    "picture": "http://www.gravatar.com/avatar/ab01dee3f78332e94d4a0ab86af5e785.png?s=200",
+    "email": "fnd.natalia@gmail.com",
+    "phone": "",
+    "summary": "A Full Stack Developer focused on Javascript, Node.js, HTML5 and CSS. I have been studying and working with Javascript since 2018. During this time I have contributed to a few different websites, mostly on front-end, as well as some learning projects which can be found on my GitHub page. Apart from concluding some bootcamp courses, both online and in the classroom, I am fortunate to have a few experienced mentors working with me on a regular basis on Agile practices.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "Australia"
+    },
+    "profiles": [
+      {
+        "network": "Email",
+        "username": "fnd.natalia@gmail.com",
+        "url": "mailto:fnd.natalia@gmail.com",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg",
+        "iconColor": "#D14836"
+      },
+      {
+        "network": "GitHub",
+        "username": "github.com/nataphilips",
+        "url": "https://github.com/nataphilips",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg",
+        "iconColor": "#181717"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "linkedin.com/in/natalia-filippova-08048110b/",
+        "url": "https://www.linkedin.com/in/natalia-filippova-08048110b/",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg",
+        "iconColor": "#0077B5"
+      },
+      {
+        "network": "Codewars",
+        "username": "codewars.com/users/nataphilips",
+        "url": "https://www.codewars.com/users/nataphilips",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codewars.svg",
+        "iconColor": "#AD2C27"
+      },
+      {
+        "network": "Codepen",
+        "username": "codepen.io/natalia-filippova",
+        "url": "https://codepen.io/natalia-filippova",
+        "icon": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codepen.svg",
+        "iconColor": "#000000"
+      }
+    ]
+  },
+
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+
+  "work": [
+    {
+      "company": "Casa Elia",
+      "position": "Wordpress Developer",
+      "website": "http://eliabran.com/",
+      "startDate": "2019-10-15",
+      "endDate": "2020-03-01",
+      "duration": "5 months",
+      "highlights": [
+        "Set up Wordpress and adapting the theme",
+        "Website structure, custom post types and fields",
+        "PHP and CSS development for site customization",
+        "Creating a multilingual website",
+        "Creating email inboxes and anti spam control for contact forms"
+      ],
+      "technologies": "Wordpress, iPage hosting, PHP, CSS"
+    },
+
+    {
+      "company": "Scribe Intelligence",
+      "position": "Junior Developer",
+      "website": "https://www.scribeintelligence.com/",
+      "startDate": "2018-11-01",
+      "endDate": "2018-12-01",
+      "duration": "1 month",
+      "highlights": [
+        "Front-end development",
+        "Working on the home page in React",
+        "Basic SEO fixes"
+      ],
+      "technologies": "JavaScript, React.js, styled-components"
+    },
+
+    {
+      "company": "Arena-Magic Box",
+      "position": "Senior Media Planner",
+      "startDate": "2011-09-01",
+      "endDate": "2017-08-25",
+      "duration": "6 years",
+      "highlights": [
+        "Project management and teamwork, leading ATL and BTL campaigns",
+        "Strategic Media Planning",
+        "Tactic Media Planning",
+        "Research - competitors and industry",
+        "Client meetings and presentations",
+        "Quality control - post-buy reports"
+      ],
+      "technologies": "Media industrial tools: Adex, Palomars, MIndex"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML5",
+        "Javascript",
+        "REACT JS",
+        "Angular",
+        "CSS/Less/SASS"
+      ]
+    },
+    {
+      "name": "Server-side Development",
+      "keywords": ["Node.js", "PostgreSQL"]
+    },
+    {
+      "name": "Agile practices",
+      "keywords": [
+        "Responsive development practices and processes",
+        "Continuous Delivery",
+        "Test automation"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Your Founders And Coders Bootcamp",
+      "area": "Full Stack Development",
+      "studyType": "Graduated",
+      "startDate": "2019-09-01",
+      "endDate": "2019-12-01"
+    },
+    {
+      "institution": "National Research University of Electronic Technology (MIET)",
+      "area": "Marketing & Project Management",
+      "studyType": "Specialist",
+      "startDate": "2006-09-01",
+      "endDate": "2011-06-01"
+    }
+  ]
+}
