@@ -76,7 +76,8 @@
         "Website structure, custom post types and fields",
         "PHP and CSS development for site customization",
         "Creating a multilingual website",
-        "Creating email inboxes and anti spam control for contact forms"
+        "Creating email inboxes and anti spam control for contact forms",
+        "Optimizing photos for web"
       ],
       "technologies": "Wordpress, iPage hosting, PHP, CSS"
     },
@@ -85,13 +86,13 @@
       "company": "Scribe Intelligence",
       "position": "Junior Developer",
       "website": "https://www.scribeintelligence.com/",
-      "startDate": "2018-11-01",
-      "endDate": "2018-12-01",
-      "duration": "1 month",
+      "startDate": "2019-01-01",
+      "endDate": "2019-03-01",
+      "duration": "2 months",
       "highlights": [
         "Front-end development",
         "Working on the home page in React",
-        "Basic SEO fixes"
+        "Basic SEO optimization"
       ],
       "technologies": "JavaScript, React.js, styled-components"
     },
