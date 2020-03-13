@@ -2,7 +2,7 @@
   "name": "profile-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://caiokf.github.io/profile-page",
+  "homepage": "https://nataphilips.github.io/resume/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
